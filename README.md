@@ -1,2 +1,2 @@
 # Projects_Repo
-C++ Projects
+Projects developed by me during the journey of learning c++
